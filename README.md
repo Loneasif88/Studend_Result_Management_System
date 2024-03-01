@@ -53,13 +53,20 @@ The project is divided into several sections, each focusing on specific function
 5. Navigate through the various sections using the provided interfaces.
 
 ## Screenshots
- 
+
+ ### Admin Section
 ![Index Page](images/welcomeSRMS.png)
-![Admin Home Page](/images/admin_home.png)
-![Admin Login Page](/images/admin_login.png)
-![Add New Result Page](/images/add_result.png)
-![Registered Students and Results](/images/registered_students.png)
-![Student Roll Number Search](/images/student_search.png)
+![Admin Login Page](images/adminLogin.png)
+![Admin Home Page](/images/AdminHome.png)
+![Add New Student Page](/images/addNewStudent.png)
+![Add Students Result Page](/images/addResult.png)
+![All Registered Students](/images/registeredStudents.png)
+![All Students Result](/images/allStudentsResult.png)
+
+### Student Section
+![Student Roll Number Search](/images/searchStudent.png)
+![Students Result Page](/images/StudentResult.png)
+
 
 ## Contributors
 
