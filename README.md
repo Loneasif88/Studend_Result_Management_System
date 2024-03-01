@@ -60,7 +60,7 @@ The project is divided into several sections, each focusing on specific function
 ![Admin Home Page](/images/AdminHome.png)
 ![Add New Student Page](/images/addNewStudent.png)
 ![Add Students Result Page](/images/addResult.png)
-![All Registered Students](/images/registeredStudents.png)
+![All Registered Students](/images/reggisteredStudents.png)
 ![All Students Result](/images/allStudentsResult.png)
 
 ### Student Section
