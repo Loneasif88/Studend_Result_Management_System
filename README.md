@@ -53,7 +53,8 @@ The project is divided into several sections, each focusing on specific function
 5. Navigate through the various sections using the provided interfaces.
 
 ## Screenshots
-
+ 
+![Index Page](images/welcomeSRMS.png)
 ![Admin Home Page](/images/admin_home.png)
 ![Admin Login Page](/images/admin_login.png)
 ![Add New Result Page](/images/add_result.png)
